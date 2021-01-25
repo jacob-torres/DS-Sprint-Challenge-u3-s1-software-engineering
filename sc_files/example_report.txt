@@ -1,0 +1,159 @@
+
+    Acme INC. Product Report
+    
+
+    Unique product names: 19
+    Average price: $56.73
+    Average weight: 45.47 LBS
+    Average flammability: 1.21
+    
+Improved Anvil: $53
+        Product ID: 2061031
+        Weight: 28 LBS
+        Flammability: 1.92
+        
+Impressive Catapult: $75
+        Product ID: 2466002
+        Weight: 44 LBS
+        Flammability: 0.3
+        
+Shiny Anvil: $34
+        Product ID: 7362744
+        Weight: 84 LBS
+        Flammability: 1.11
+        
+Improved Catapult: $99
+        Product ID: 7102803
+        Weight: 85 LBS
+        Flammability: 1.72
+        
+Shiny Mousetrap: $94
+        Product ID: 4900420
+        Weight: 24 LBS
+        Flammability: 0.37
+        
+Awesome Disguise: $22
+        Product ID: 1964042
+        Weight: 32 LBS
+        Flammability: 0.03
+        
+Awesome Anvil: $94
+        Product ID: 7119815
+        Weight: 47 LBS
+        Flammability: 1.43
+        
+Awesome Mousetrap: $41
+        Product ID: 4540729
+        Weight: 54 LBS
+        Flammability: 0.08
+        
+Portable Mousetrap: $39
+        Product ID: 7865361
+        Weight: 10 LBS
+        Flammability: 0.8
+        
+Improved Catapult: $62
+        Product ID: 8436881
+        Weight: 19 LBS
+        Flammability: 0.36
+        
+Awesome Anvil: $86
+        Product ID: 9007028
+        Weight: 89 LBS
+        Flammability: 2.47
+        
+Awesome Disguise: $21
+        Product ID: 5970800
+        Weight: 8 LBS
+        Flammability: 2.45
+        
+Portable Catapult: $23
+        Product ID: 2542753
+        Weight: 11 LBS
+        Flammability: 2.34
+        
+Awesome Mousetrap: $6
+        Product ID: 5034483
+        Weight: 26 LBS
+        Flammability: 0.57
+        
+Awesome Anvil: $51
+        Product ID: 9875331
+        Weight: 69 LBS
+        Flammability: 1.2
+        
+Impressive ???: $94
+        Product ID: 8798918
+        Weight: 22 LBS
+        Flammability: 1.95
+        
+Shiny Disguise: $65
+        Product ID: 7961384
+        Weight: 50 LBS
+        Flammability: 0.92
+        
+Shiny Mousetrap: $68
+        Product ID: 8839927
+        Weight: 59 LBS
+        Flammability: 1.5
+        
+Improved Catapult: $98
+        Product ID: 9145570
+        Weight: 96 LBS
+        Flammability: 2.27
+        
+Awesome Disguise: $30
+        Product ID: 1569330
+        Weight: 46 LBS
+        Flammability: 0.85
+        
+Impressive Anvil: $71
+        Product ID: 3939126
+        Weight: 77 LBS
+        Flammability: 1.77
+        
+Impressive Disguise: $25
+        Product ID: 9753151
+        Weight: 71 LBS
+        Flammability: 0.85
+        
+Portable Disguise: $33
+        Product ID: 1168425
+        Weight: 59 LBS
+        Flammability: 0.93
+        
+Impressive ???: $68
+        Product ID: 6346876
+        Weight: 17 LBS
+        Flammability: 1.19
+        
+Improved Disguise: $55
+        Product ID: 4440876
+        Weight: 39 LBS
+        Flammability: 1.19
+        
+Portable Disguise: $13
+        Product ID: 4291019
+        Weight: 28 LBS
+        Flammability: 0.6
+        
+Shiny ???: $19
+        Product ID: 5985732
+        Weight: 50 LBS
+        Flammability: 0.89
+        
+Improved Catapult: $100
+        Product ID: 2546667
+        Weight: 33 LBS
+        Flammability: 0.95
+        
+Improved ???: $96
+        Product ID: 2214910
+        Weight: 38 LBS
+        Flammability: 1.62
+        
+Portable Anvil: $67
+        Product ID: 9497998
+        Weight: 49 LBS
+        Flammability: 1.57
+        
